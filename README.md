@@ -4,6 +4,9 @@
 Среда за упражнения:
 https://codepen.io
 
+Среда за упражнения за JS неща:
+https://codesandbox.io
+
 За студенти, тулбокс:
 https://education.github.com/pack
 
